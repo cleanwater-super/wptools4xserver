@@ -61,12 +61,6 @@ $ deployBasic.sh blog master
 
 ## Install
 
-## Contribution
-
-## Licence
-
-MIT ライセンスに準ずる。
-
 ## Author
 
 Tatsuya Shimizu(cleanwater.super@gmail.com)
