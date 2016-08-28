@@ -63,4 +63,4 @@ $ deployBasic.sh blog master
 
 ## Author
 
-Tatsuya Shimizu(cleanwater.super@gmail.com)
+Tatsuya Shimizu(https://github.com/cleanwater-super)
