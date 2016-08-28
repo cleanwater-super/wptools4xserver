@@ -1,0 +1,8 @@
+export DOMAIN="example.com"
+export WPENVIRONMENT="env"
+export PATHTOWP="${HOME}/${DOMAIN}/public_html"
+export CLONE_URL="https://exmaple.com/path/to/project.git"
+export DESIGN_NAME="basic"
+export MYSQLHOST="mysql.example.com"
+export MYSQLDB="exampledb"
+export FIXEDURL="https://example.com"
